@@ -1,4 +1,4 @@
-# 📦 Inventory Optimization Agent — Multi-Product Newsvendor
+# Inventory Optimization Agent — Multi-Product Newsvendor
 
 A production-grade inventory optimization pipeline for multi-SKU retail planning, combining **newsvendor theory**, **Sample Average Approximation (SAA)**, and **LLM-generated plain-language explanations** to determine optimal weekly order quantities under budget, storage, and service-level constraints.
 
